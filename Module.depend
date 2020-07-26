@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1595793317 source:/home/tanjil/Documents/projects/c projects/cplusplus/Module/main.cpp
+	<iostream>
+	"mathfunc.h"
+
+1595793267 /home/tanjil/Documents/projects/c projects/cplusplus/Module/mathfunc.h
+
+1595792406 source:/home/tanjil/Documents/projects/c projects/cplusplus/Module/mathfunc.cpp
+	<iostream>
+
